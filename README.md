@@ -15,6 +15,15 @@ In this repository, you will find:
 - **Solution Demos**: Demonstrations of how to implement specific features and functionalities using ServiceNow's Creator Workflows and App Engine.
 - **Documentation**: Comprehensive guides and documentation to help you get started and make the most of these solutions.
 
+
+| Asset                                      | Description                                                                            | 
+| ------------------------------------------ | :------------------------------------------------------------------------------------: | 
+| [Creator Innovation Gallery](https://github.com/ServiceNow/Creator-Innovation-Gallery/) | Practical examples of how to build modern user interfaces with ServiceNow UI Builder.  | 
+[Grant Award Program Management](https://github.com/ServiceNow/Grant-Award-Program-Management) | Sample Grant Award Management app (depends on the NIEM application) |
+| [NIEM for ServiceNow](https://github.com/ServiceNow/NIEM) | Integrates the NIEM data model into ServiceNow, enhancing data standardization and interoperability across systems.  | 
+| [SAM.gov Integration](https://github.com/MarcMouries/SAM.gov-Spoke) | SAM.gov Integration for IntegrationHub. |
+
+
 ## How to Use This Repository
 
 Feel free to explore, fork, and use the contents of this repository for your own projects and initiatives. Each solution is designed to be a starting point, providing actionable guidance and direction to accelerate your application development journey. 
