@@ -16,8 +16,8 @@ In this repository, you will find:
 - **Documentation**: Comprehensive guides and documentation to help you get started and make the most of these solutions.
 
 
-| Asset                                      | Description                                                                            | 
-| ------------------------------------------ | :------------------------------------------------------------------------------------: | 
+| Asset                                      | Description                                                                          | 
+| ------------------------------------------ | ------------------------------------------------------------------------------------ | 
 | [Creator Innovation Gallery](https://github.com/ServiceNow/Creator-Innovation-Gallery/) | Practical examples of how to build modern user interfaces with ServiceNow UI Builder.  | 
 [Grant Award Program Management](https://github.com/ServiceNow/Grant-Award-Program-Management) | Sample Grant Award Management app (depends on the NIEM application) |
 | [NIEM for ServiceNow](https://github.com/ServiceNow/NIEM) | Integrates the NIEM data model into ServiceNow, enhancing data standardization and interoperability across systems.  | 
