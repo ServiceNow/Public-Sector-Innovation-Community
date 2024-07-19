@@ -27,7 +27,7 @@ In this repository, you will find:
 | [SAM.gov Integration](https://github.com/ServiceNow/SAM.gov-Spoke)                             | SAM.gov Integration for IntegrationHub. |
 
 
-## How to Use This Repository
+## How to use this repository
 
 Feel free to explore, fork, and use the contents of this repository for your own projects and initiatives. Each solution is designed to be a starting point, providing actionable guidance and direction to accelerate your application development journey. 
 
