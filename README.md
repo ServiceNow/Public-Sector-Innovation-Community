@@ -16,17 +16,26 @@ In this repository, you will find:
 - **Documentation**: Comprehensive guides and documentation to help you get started and make the most of these solutions.
 
 
-| Asset                                      | Description                                                                          | 
-| ------------------------------------------ | ------------------------------------------------------------------------------------ | 
-| [Creator Innovation Gallery](https://github.com/ServiceNow/Creator-Innovation-Gallery/) | Practical examples of how to build modern user interfaces with ServiceNow UI Builder.  | 
-[Grant Award Program Management](https://github.com/ServiceNow/Grant-Award-Program-Management) | Sample Grant Award Management app (depends on the NIEM application) |
-| [NIEM for ServiceNow](https://github.com/ServiceNow/NIEM) | Integrates the NIEM data model into ServiceNow, enhancing data standardization and interoperability across systems.  | 
-| [SAM.gov Integration](https://github.com/MarcMouries/SAM.gov-Spoke) | SAM.gov Integration for IntegrationHub. |
+| Asset                                                                                          | Description                                                                            | 
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | 
+| [Creator Innovation Gallery](https://github.com/ServiceNow/Creator-Innovation-Gallery/)        | Practical examples of how to build modern user interfaces with ServiceNow UI Builder.  | 
+| [Grant Award Program Management](https://github.com/ServiceNow/Grant-Award-Program-Management) | Sample Grant Award Management app (depends on the NIEM application)                    |
+| [NIEM Core for ServiceNow](https://github.com/ServiceNow/NIEM)                                 | subset of the NIEM data model for ServiceNow, enhancing data standardization and interoperability across systems.          | 
+| [NIEM Drug for ServiceNow](https://github.com/ServiceNow/NIEM-Drug)                            | subset of the NIEM Drug data model for ServiceNow, enhancing data standardization and interoperability across systems.     | 
+| [NIEM Justice for ServiceNow](https://github.com/ServiceNow/NIEM-Justice)                      | subset of the NIEM Justice data model for ServiceNow, enhancing data standardization and interoperability across systems.  | 
+| [NIEM Screening for ServiceNow](https://github.com/ServiceNow/NIEM-Screening)                  | subset of the NIEM Screening data model for ServiceNow, enhancing data standardization and interoperability across systems.| 
+| [SAM.gov Integration](https://github.com/ServiceNow/SAM.gov-Spoke)                             | SAM.gov Integration for IntegrationHub. |
 
 
 ## How to Use This Repository
 
 Feel free to explore, fork, and use the contents of this repository for your own projects and initiatives. Each solution is designed to be a starting point, providing actionable guidance and direction to accelerate your application development journey. 
+
+## Webinars
+
+
+## Whitepapers
+[Investigative Case Management with ServiceNow App Engine](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/solution-brief/servicenow-investigate-case-management.pdf)    
 
 **Contact Information:**
 
