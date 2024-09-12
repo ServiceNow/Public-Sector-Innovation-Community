@@ -32,7 +32,10 @@ In this repository, you will find:
 Feel free to explore, fork, and use the contents of this repository for your own projects and initiatives. Each solution is designed to be a starting point, providing actionable guidance and direction to accelerate your application development journey. 
 
 ## Webinars
-
+* [ServiceNow Federal Tech Talk: Establishing a Successful CitizenDeveloper Program](https://www.youtube.com/watch?v=8oyvhc7eGuk)     
+* [ServiceNow Federal Tech Talk – Transforming Government Forms into an efficient experience](https://www.youtube.com/watch?v=Reqan2XKpA0)
+* [ServiceNow Emergency Management Webinar Series: Operation Low Code](https://www.youtube.com/watch?v=pGYQaqw6AVA)
+* [From ITSM to GenAI Fueling Federal Innovation with ServiceNow Low Code](https://www.youtube.com/watch?v=rVOq1wJZAtQ)
 
 ## Whitepapers
 [Investigative Case Management with ServiceNow App Engine](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/solution-brief/servicenow-investigate-case-management.pdf)    
