@@ -38,7 +38,7 @@ Feel free to explore, fork, and use the contents of this repository for your own
 * [From ITSM to GenAI Fueling Federal Innovation with ServiceNow Low Code](https://www.youtube.com/watch?v=rVOq1wJZAtQ)
 
 ## Whitepapers
-[Investigative Case Management with ServiceNow App Engine](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/solution-brief/servicenow-investigate-case-management.pdf)    
+[Investigative Case Management with ServiceNow App Engine](./assets/ServiceNow_ICMS_AppEngine.pdf) 
 
 **Contact Information:**
 
